@@ -1,0 +1,14 @@
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\bin\Debug\netcoreapp3.1\Lab_OOP.exe
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\bin\Debug\netcoreapp3.1\Lab_OOP.deps.json
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\bin\Debug\netcoreapp3.1\Lab_OOP.runtimeconfig.json
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\bin\Debug\netcoreapp3.1\Lab_OOP.runtimeconfig.dev.json
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\bin\Debug\netcoreapp3.1\Lab_OOP.dll
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\bin\Debug\netcoreapp3.1\Lab_OOP.pdb
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.csproj.AssemblyReference.cache
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.AssemblyInfoInputs.cache
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.AssemblyInfo.cs
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.csproj.CoreCompileInputs.cache
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.dll
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.pdb
+C:\Users\gruni\source\repos\Lab_OOP\Lab_OOP\obj\Debug\netcoreapp3.1\Lab_OOP.genruntimeconfig.cache
